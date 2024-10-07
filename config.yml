@@ -5,12 +5,12 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: Posts
-      name: Posts
+    - identifier: posts
+      name: פוסטים
       url: /Posts/
       weight: 1
     
-    - identifier: About_me
-      name: About Me
-      url: /aboutme/
+    - identifier: aboutme
+      name: הסיפור שלי
+      url: /other/aboutme/
       weight: 2

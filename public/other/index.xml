@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Others on DataBuzz</title>
+    <link>//localhost:1313/other/</link>
+    <description>Recent content in Others on DataBuzz</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>he</language>
+    <lastBuildDate>Mon, 07 Oct 2024 14:15:45 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/other/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>הסיפור שלי</title>
+      <link>//localhost:1313/other/aboutme/</link>
+      <pubDate>Mon, 07 Oct 2024 14:15:45 +0300</pubDate>
+      <guid>//localhost:1313/other/aboutme/</guid>
+      <description>&lt;p&gt;נעים להכיר, בלה בלה בלה..&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
