@@ -1,5 +1,9 @@
 baseURL: ""
 languageCode: "he"
+languageName: "Hebrew"
+isoCode: "he"
+weight: 1
+rtl: true
 title: DataBuzz
 theme: PaperMod
 
