@@ -1,0 +1,20 @@
+baseURL: "DataBuzz"
+languageCode: "he"
+languageName: "Hebrew"
+isoCode: "he"
+weight: 1
+title: DataBuzz
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: Posts
+      name: Posts
+      url: /Posts/
+      weight: 1
+    
+    - identifier: About_me
+      name: About Me
+      url: /aboutme/
+      weight: 2
+    
