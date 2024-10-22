@@ -15,6 +15,6 @@ draft: false
 המטרה שלי היא להנגיש את עולם הנתונים לכולם, ללא קשר לרמת הידע הקודמת שלכם בתחום. אני מזמין אתכם ללמוד איתי ולהבין איך ניתוח נכון של נתונים יכול לשנות את התמונה הגדולה. בואו נצלול יחד לעולם המרתק של הנתונים ונגלה יחד את הסיפורים שהם מספרים לנו.
 
 ### בואו נתחבר!
-Email: [talhayun4@email.com](mailto:talhayun4@email.com)
+אימייל: [talhayun4@email.com](mailto:talhayun4@email.com)
 
-Linkedin Profile: [Click Here](https://www.linkedin.com/in/tal-hayun/)
+לינקדין: [לעמוד הפרופיל](https://www.linkedin.com/in/tal-hayun/)
